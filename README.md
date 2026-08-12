@@ -1,6 +1,6 @@
 # 桂林旅游助手 Agent
 
-基于智谱AI大模型 + Function Calling + RAG 的旅游问答助手。
+基于AI大模型 + Function Calling + RAG 的旅游问答助手。
 
 
 
